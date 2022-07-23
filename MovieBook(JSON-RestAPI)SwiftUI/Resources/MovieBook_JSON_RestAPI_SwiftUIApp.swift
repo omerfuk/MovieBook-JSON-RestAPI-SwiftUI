@@ -11,7 +11,7 @@ import SwiftUI
 struct MovieBook_JSON_RestAPI_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
